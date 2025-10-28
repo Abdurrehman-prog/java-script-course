@@ -1,7 +1,7 @@
 const accountId = 255526
 let accountName = "Abdurrehman"
 let accountPassword = "8899"
-let accountAge = "19"
+let accountAge = 19;
 
 console.log(`${accountName} his id is ${accountId} and password is given as ${accountPassword} and age is also ${accountAge}`
 );
