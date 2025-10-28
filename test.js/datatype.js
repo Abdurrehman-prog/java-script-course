@@ -13,12 +13,13 @@ let state = null; //object
 let isloggedin = false; //boolean
 let age = 18 //number
 
-// number => 2 to power 53
-// bigint
-// string => ""
-// boolean => true/false
-// null => standalone value
-// undefined => 
-// symbol => unique
-
+/*
+number = 2 ^ 53
+bigint = for large numbers
+string = "assembly of characters"
+boolean = true or false
+null = stand alone value (type = object)
+undefined = kindda place holder for a value which is not defined yet (type = undefined)
+symbol = uniquness
+*/
 console.log(typeof state);
