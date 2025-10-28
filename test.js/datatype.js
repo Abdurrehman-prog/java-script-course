@@ -6,9 +6,9 @@ console.log(3
     + 3); // coding like this does not look professional
 
 console.log("rehman");
-let state = null;
-let isloggedin = false;
-let age = 18
+let state = null; //object
+let isloggedin = false; //boolean
+let age = 18 //number
 
 // number => 2 to power 53
 // bigint
