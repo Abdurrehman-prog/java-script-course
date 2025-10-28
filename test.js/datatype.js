@@ -6,6 +6,9 @@ console.log(3
     + 3); // coding like this does not look professional
 
 console.log("rehman");
+/*
+these comments infront of let are datatypes
+*/
 let state = null; //object
 let isloggedin = false; //boolean
 let age = 18 //number
